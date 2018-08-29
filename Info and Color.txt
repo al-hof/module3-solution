@@ -1,0 +1,3 @@
+Background-color: #fff;
+Font-color: #08586d;
+Header-color: #6489aa;

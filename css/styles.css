@@ -1,0 +1,39 @@
+body {
+	background: #fff;
+	
+}
+
+/* HEADER */
+#header-nav {
+	background: #6489aa;
+
+}
+
+.navbar-light .navbar-brand {
+  color: #fff;
+  font-size: 2em;
+}
+
+.navbar-toggler {
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 0.25rem;
+}
+
+.navbar-toggler:hover, .navbar-toggler:focus {
+  text-decoration: none;
+  background: #adc0d2;
+}
+
+.navbar-collapse {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.nav-item:hover {
+	background: #adc0d2;
+}
+
+#border-top {
+	border-top: 1px solid #adc0d2;
+}
