@@ -37,3 +37,11 @@ body {
 #border-top {
 	border-top: 1px solid #adc0d2;
 }
+
+#title {
+	margin: 20px 0 20px 0;
+}
+
+#chicken {
+	/*text-align: center;*/
+}
